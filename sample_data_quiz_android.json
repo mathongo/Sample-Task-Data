@@ -1,0 +1,300 @@
+[{
+  "type": "singleCorrect",
+  "level": null,
+  "category": null,
+  "approximateTimeRequired": 60,
+  "imageBaseUrl": null,
+  "helperText": null,
+  "source": null,
+  "classes": [],
+  "exams": ["JEE Advanced"],
+  "subjects": ["Physics"],
+  "chapters": ["Nuclear Physics and Radioactivity"],
+  "topics": [],
+  "concepts": [],
+  "microConcepts": [],
+  "questionLabels": [
+    {
+      "title": "Concept",
+      "value": "Radioactive Decay Law",
+      "isVisible": false
+    }
+  ],
+  "previousYearPapers": ["JEE Advanced2019 - 1"],
+  "question": {
+    "text": "In a radioactive sample, <math><msubsup><mrow><mi mathvariant=\"normal\">&nbsp;</mi></mrow><mrow><mn>19</mn></mrow><mrow><mn>40</mn></mrow></msubsup><mi mathvariant=\"normal\">K</mi></math> nuclei either decay into stable <math><msubsup><mrow><mi mathvariant=\"normal\">&nbsp;</mi></mrow><mrow><mn>20</mn></mrow><mrow><mn>40</mn></mrow></msubsup><mi mathvariant=\"normal\">C</mi><mi mathvariant=\"normal\">a</mi></math> nuclei with decay constant <math><mn>4.5</mn><mo>\u00d7</mo><msup><mrow><mn>10</mn></mrow><mrow><mo>-</mo><mn>10</mn></mrow></msup></math> per year or into stable <math><msubsup><mrow><mi mathvariant=\"normal\">&nbsp;</mi></mrow><mrow><mn>18</mn></mrow><mrow><mn>40</mn></mrow></msubsup><mi mathvariant=\"normal\">A</mi><mi mathvariant=\"normal\">r</mi></math> nuclei with decay constant <math><mn>0.5</mn><mo>\u00d7</mo><msup><mrow><mn>10</mn></mrow><mrow><mo>-</mo><mn>10</mn></mrow></msup></math> per year. Given that in this sample all the stable <math><msubsup><mrow><mi mathvariant=\"normal\">&nbsp;</mi></mrow><mrow><mn>20</mn></mrow><mrow><mn>40</mn></mrow></msubsup><mi mathvariant=\"normal\">C</mi><mi mathvariant=\"normal\">a</mi></math> and <math><msubsup><mrow><mi mathvariant=\"normal\">&nbsp;</mi></mrow><mrow><mn>18</mn></mrow><mrow><mn>40</mn></mrow></msubsup><mi mathvariant=\"normal\">A</mi><mi mathvariant=\"normal\">r</mi></math> nuclei are produced by the <math><msubsup><mrow><mi mathvariant=\"normal\">&nbsp;</mi></mrow><mrow><mn>19</mn></mrow><mrow><mn>40</mn></mrow></msubsup><mi mathvariant=\"normal\">K</mi></math> nuclei only. In time <math><mi mathvariant=\"normal\">t</mi><mo>\u00d7</mo><msup><mrow><mn>10</mn></mrow><mrow><mn>9</mn></mrow></msup></math> years, if the ratio of the sum of stable <math><msubsup><mrow><mi mathvariant=\"normal\">&nbsp;</mi></mrow><mrow><mn>20</mn></mrow><mrow><mn>40</mn></mrow></msubsup><mi mathvariant=\"normal\">C</mi><mi mathvariant=\"normal\">a</mi></math> and <math><msubsup><mrow><mi mathvariant=\"normal\">&nbsp;</mi></mrow><mrow><mn>18</mn></mrow><mrow><mn>40</mn></mrow></msubsup><mi mathvariant=\"normal\">A</mi><mi mathvariant=\"normal\">r</mi></math> nuclei to the radioactive <math><msubsup><mrow><mi mathvariant=\"normal\">&nbsp;</mi></mrow><mrow><mn>19</mn></mrow><mrow><mn>40</mn></mrow></msubsup><mi mathvariant=\"normal\">K</mi></math> nuclei is <math><mn>99</mn><mo>,</mo></math> the value of t will be : [Given <math><mi mathvariant=\"normal\">l</mi><mi mathvariant=\"normal\">n</mi><mi mathvariant=\"normal\">&nbsp;</mi><mn>10</mn><mo>=</mo><mn>2.3</mn></math> ]<br />\r\n<br />\r\n<img src=\"https://s3.amazonaws.com/embibe-cdn/resources/images/xycwymmewvkdmpybreczihkxuiuyrmeqtmexumbwjrzltamsyi.png\" />",
+    "image": null
+  },
+  "options": [
+    {
+      "id": "KMhtf",
+      "text": "<math><mn>1.15</mn></math>",
+      "image": null,
+      "isCorrect": false
+    },
+    {
+      "id": "kgCA5",
+      "text": "<math><mn>2.3</mn></math>",
+      "image": null,
+      "isCorrect": false
+    },
+    {
+      "id": "IYLu8",
+      "text": "<math><mn>4.6</mn></math>",
+      "image": null,
+      "isCorrect": false
+    },
+    {
+      "id": "Qdowi",
+      "text": "<math><mn>9.2</mn></math>",
+      "image": null,
+      "isCorrect": true
+    }
+  ],
+  "correctValue": null,
+  "solution": {
+    "text": "Given that,  <math><msubsup><mrow><mi>\u00a0</mi></mrow><mrow><mn>19</mn></mrow><mrow><mn>49</mn></mrow></msubsup><mi>K</mi></math>  decays in two stable  <math><msubsup><mrow><mi>\u00a0</mi></mrow><mrow><mn>20</mn></mrow><mrow><mn>40</mn></mrow></msubsup><mi>C</mi><mi>a</mi><mi>\u00a0</mi><mi>o</mi><mi>f</mi><mi>\u00a0</mi><msubsup><mrow><mi>\u00a0</mi></mrow><mrow><mn>18</mn></mrow><mrow><mn>40</mn></mrow></msubsup><mi>A</mi><mi>r</mi><mi>\u00a0</mi></math> Nuclei. Let there be  <math><msub><mrow><mi>N</mi></mrow><mrow><mn>0</mn></mrow></msub></math>  active nuclei of  <math><msubsup><mrow><mi>\u00a0</mi></mrow><mrow><mn>19</mn></mrow><mrow><mn>40</mn></mrow></msubsup><mi>K</mi></math>  present at  <math><mi>t</mi><mo>=</mo><mn>0</mn></math>  and none of  <math><msubsup><mrow><mi>\u00a0</mi></mrow><mrow><mn>20</mn></mrow><mrow><mn>40</mn></mrow></msubsup><mi>C</mi><mi>a</mi></math>  and  <math><msubsup><mrow><mi>\u00a0</mi></mrow><mrow><mn>18</mn></mrow><mrow><mn>40</mn></mrow></msubsup><mi>A</mi><mi>r</mi></math>  present of  <math><mi>t</mi><mo>=</mo><mn>0</mn></math> .<br/><br/>Where  <math><msub><mrow><mi>\u03bb</mi></mrow><mrow><mn>1</mn></mrow></msub></math>  (decay constant for  <math><mi>K</mi><mo>\u2192</mo><mi>C</mi><mi>a</mi></math> )  <math><mo>=</mo><mn>4.5</mn><mo>\u00d7</mo><mfrac><mrow><msup><mrow><mn>10</mn></mrow><mrow><mo>-</mo><mn>10</mn></mrow></msup></mrow><mrow><mi mathvariant=\"normal\">y</mi><mi mathvariant=\"normal\">e</mi><mi mathvariant=\"normal\">a</mi><mi mathvariant=\"normal\">r</mi></mrow></mfrac></math>  and<br/><br/> <math><msub><mrow><mi>\u03bb</mi></mrow><mrow><mn>2</mn></mrow></msub></math>  (decay constant for  <math><mi>K</mi><mo>\u2192</mo><mi>A</mi><mi>r</mi></math> )  <math><mo>=</mo><mn>0.5</mn><mo>\u00d7</mo><mfrac><mrow><msup><mrow><mn>10</mn></mrow><mrow><mo>-</mo><mn>10</mn></mrow></msup></mrow><mrow><mi mathvariant=\"normal\">y</mi><mi mathvariant=\"normal\">e</mi><mi mathvariant=\"normal\">a</mi><mi mathvariant=\"normal\">r</mi></mrow></mfrac></math> <br/><br/>These form two parallel nuclear reactions.<br/><br/> <math><mo>\u2234</mo></math>  Equivalent decay consent,  <math><mi>\u03bb</mi><mo>=</mo><msub><mrow><mi>\u03bb</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>+</mo><msub><mrow><mi>\u03bb</mi></mrow><mrow><mn>2</mn></mrow></msub><mo>=</mo><mn>5</mn><mo>\u00d7</mo><mfrac><mrow><msup><mrow><mn>10</mn></mrow><mrow><mo>-</mo><mn>10</mn></mrow></msup></mrow><mrow><mi mathvariant=\"normal\">y</mi><mi mathvariant=\"normal\">e</mi><mi mathvariant=\"normal\">a</mi><mi mathvariant=\"normal\">r</mi></mrow></mfrac></math> <br/><br/>Now, number of active nuclei of  <math><msubsup><mrow><mi>\u00a0</mi></mrow><mrow><mn>19</mn></mrow><mrow><mn>40</mn></mrow></msubsup><mi>K</mi></math>  left at  <math><mfenced separators=\"|\"><mrow><mi>t</mi><mo>=</mo><mi>t</mi></mrow></mfenced><mo>=</mo><mi>N</mi></math> <br/><br/>And according to Law of Radioactivity,<br/><br/> <math><mi>N</mi><mo>=</mo><msub><mrow><mi>N</mi></mrow><mrow><mn>0</mn></mrow></msub><msup><mrow><mi>e</mi></mrow><mrow><mo>-</mo><mi>\u03bb</mi><mi>t</mi></mrow></msup></math>  ........(i)<br/><br/>Now, according to question,<br/><br/> <math><mfrac><mrow><msub><mrow><mi>N</mi></mrow><mrow><mn>0</mn></mrow></msub><mo>-</mo><mi>N</mi></mrow><mrow><mi>N</mi></mrow></mfrac><mo>=</mo><mn>99</mn><mo>\u21d2</mo><msub><mrow><mi>N</mi></mrow><mrow><mn>0</mn></mrow></msub><mo>=</mo><mn>100</mn><mi>N</mi><mo>\u21d2</mo><mi>N</mi><mo>=</mo><mfrac><mrow><msub><mrow><mi>N</mi></mrow><mrow><mn>0</mn></mrow></msub></mrow><mrow><mn>100</mn></mrow></mfrac></math> <br/><br/>Then using equation (i)<br/><br/> <math><mfrac><mrow><msub><mrow><mi>N</mi></mrow><mrow><mn>0</mn></mrow></msub></mrow><mrow><mn>100</mn></mrow></mfrac><mo>=</mo><msub><mrow><mi>N</mi></mrow><mrow><mn>0</mn></mrow></msub><msup><mrow><mi>e</mi></mrow><mrow><mo>-</mo><mi>\u03bb</mi><mi>t</mi></mrow></msup></math> <br/><br/> <math><mo>\u21d2</mo><mi mathvariant=\"normal\">l</mi><mi mathvariant=\"normal\">n</mi><mtext>\u2009</mtext><mn>100</mn><mo>=</mo><mi>\u03bb</mi><mi>t</mi><mo>\u21d2</mo><mi>t</mi><mo>=</mo><mfrac><mrow><mn>2</mn><mi mathvariant=\"normal\">l</mi><mi mathvariant=\"normal\">n</mi><mn>10</mn></mrow><mrow><mi>\u03bb</mi></mrow></mfrac><mo>=</mo><mfrac><mrow><mn>2</mn><mo>\u00d7</mo><mn>2.3</mn></mrow><mrow><mn>5</mn><mo>\u00d7</mo><msup><mrow><mn>10</mn></mrow><mrow><mo>-</mo><mn>10</mn></mrow></msup></mrow></mfrac><mo>=</mo><mn>9.2</mn><mo>\u00d7</mo><msup><mrow><mn>10</mn></mrow><mrow><mn>10</mn></mrow></msup><mi mathvariant=\"normal\">\u00a0</mi><mi mathvariant=\"normal\">y</mi><mi mathvariant=\"normal\">e</mi><mi mathvariant=\"normal\">a</mi><mi mathvariant=\"normal\">r</mi><mi mathvariant=\"normal\">s</mi></math>\n",
+    "image": null
+  },
+  "videoSolution": null
+},
+{
+  "type": "singleCorrect",
+  "level": null,
+  "category": null,
+  "approximateTimeRequired": 120,
+  "imageBaseUrl": null,
+  "helperText": null,
+  "source": null,
+  "classes": [],
+  "exams": ["JEE Advanced"],
+  "subjects": ["Physics"],
+  "chapters": ["Laws of Thermodynamics"],
+  "topics": [],
+  "concepts": [],
+  "microConcepts": [],
+  "questionLabels": [
+    { "title": "Concept", "value": "Heat capacity", "isVisible": false }
+  ],
+  "previousYearPapers": ["JEE Advanced2019 - 1"],
+  "question": {
+    "text": "A current carrying wire heats a metal rod. The wire provides a constant power  <math><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">P</mi></mrow></mfenced></math>  to the rod. The metal rod is enclosed in an insulated container. It is observed that the temperature  <math><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">T</mi></mrow></mfenced></math>  in the metal rod changes with time  <math><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">t</mi></mrow></mfenced></math>  as:<br/><br/> <math><mi mathvariant=\"normal\">T</mi><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">t</mi></mrow></mfenced><mo>=</mo><msub><mrow><mi mathvariant=\"normal\">T</mi></mrow><mrow><mn>0</mn></mrow></msub><mfenced separators=\"|\"><mrow><mn>1</mn><mo>+</mo><mi mathvariant=\"normal\">\u03b2</mi><msup><mrow><mi mathvariant=\"normal\">t</mi></mrow><mrow><mrow><mrow><mn>1</mn></mrow><mo>/</mo><mrow><mn>4</mn></mrow></mrow></mrow></msup></mrow></mfenced></math> <br/><br/>where  <math><mi mathvariant=\"normal\">\u03b2</mi></math>  is a constant with appropriate dimension while  <math><msub><mrow><mi mathvariant=\"normal\">T</mi></mrow><mrow><mn>0</mn></mrow></msub></math>  is a constant with dimension of temperature. The heat capacity of the metal is:",
+    "image": null
+  },
+  "options": [
+    {
+      "id": "UBRkt",
+      "text": "<math><mfrac><mrow><mn>4</mn><mi mathvariant=\"normal\">P</mi><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">T</mi><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">t</mi></mrow></mfenced><mo>-</mo><msub><mrow><mi mathvariant=\"normal\">T</mi></mrow><mrow><mn>0</mn></mrow></msub></mrow></mfenced></mrow><mrow><msup><mrow><mi mathvariant=\"normal\">\u03b2</mi></mrow><mrow><mn>4</mn></mrow></msup><msubsup><mrow><mi mathvariant=\"normal\">T</mi></mrow><mrow><mn>0</mn></mrow><mrow><mn>2</mn></mrow></msubsup></mrow></mfrac></math>",
+      "image": null,
+      "isCorrect": false
+    },
+    {
+      "id": "VOmev",
+      "text": "<math><mfrac><mrow><mn>4</mn><mi mathvariant=\"normal\">P</mi><msup><mrow><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">T</mi><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">t</mi></mrow></mfenced><mo>-</mo><msub><mrow><mi mathvariant=\"normal\">T</mi></mrow><mrow><mn>0</mn></mrow></msub></mrow></mfenced></mrow><mrow><mn>2</mn></mrow></msup></mrow><mrow><msup><mrow><mi mathvariant=\"normal\">\u03b2</mi></mrow><mrow><mn>4</mn></mrow></msup><msubsup><mrow><mi mathvariant=\"normal\">T</mi></mrow><mrow><mn>0</mn></mrow><mrow><mn>3</mn></mrow></msubsup></mrow></mfrac></math>",
+      "image": null,
+      "isCorrect": false
+    },
+    {
+      "id": "qlGH7",
+      "text": "<math><mfrac><mrow><mn>4</mn><mi mathvariant=\"normal\">P</mi><msup><mrow><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">T</mi><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">t</mi></mrow></mfenced><mo>-</mo><msub><mrow><mi mathvariant=\"normal\">T</mi></mrow><mrow><mn>0</mn></mrow></msub></mrow></mfenced></mrow><mrow><mn>4</mn></mrow></msup></mrow><mrow><msup><mrow><mi mathvariant=\"normal\">\u03b2</mi></mrow><mrow><mn>4</mn></mrow></msup><msubsup><mrow><mi mathvariant=\"normal\">T</mi></mrow><mrow><mn>0</mn></mrow><mrow><mn>5</mn></mrow></msubsup></mrow></mfrac></math>",
+      "image": null,
+      "isCorrect": false
+    },
+    {
+      "id": "X7q2T",
+      "text": "<math><mfrac><mrow><mn>4</mn><mi mathvariant=\"normal\">P</mi><msup><mrow><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">T</mi><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">t</mi></mrow></mfenced><mo>-</mo><msub><mrow><mi mathvariant=\"normal\">T</mi></mrow><mrow><mn>0</mn></mrow></msub></mrow></mfenced></mrow><mrow><mn>3</mn></mrow></msup></mrow><mrow><msup><mrow><mi mathvariant=\"normal\">\u03b2</mi></mrow><mrow><mn>4</mn></mrow></msup><msubsup><mrow><mi mathvariant=\"normal\">T</mi></mrow><mrow><mn>0</mn></mrow><mrow><mn>4</mn></mrow></msubsup></mrow></mfrac></math>",
+      "image": null,
+      "isCorrect": true
+    }
+  ],
+  "correctValue": null,
+  "solution": {
+    "text": "Heat required for small increment in temperature of a substance is given by<br/><br/> <math><mi>d</mi><mi>Q</mi><mo>=</mo><mi>m</mi><mo>.</mo><mi>s</mi><mo>.</mo><mi>d</mi><mi>T</mi></math> <br/><br/>where,  <math><mi>m</mi><mo>=</mo></math> mass of substances<br/><br/>or  <math><mi>s</mi><mo>=</mo></math> specific heat of substance<br/><br/>Now, heat capacity,  <math><mi>H</mi><mo>=</mo><mi>m</mi><mo>.</mo><mi>s</mi><mo>.</mo></math> <br/><br/> <math><mo>\u2234</mo><mtext>\u2009\u2009</mtext><mi>d</mi><mi>Q</mi><mo>=</mo><mi>H</mi><mo>.</mo><mi>d</mi><mi>T</mi></math> <br/><br/> <math><mo>\u21d2</mo></math>  Rate of heat absorption by the rod,  <math><mfrac><mrow><mi>d</mi><mi>Q</mi></mrow><mrow><mi>d</mi><mi>t</mi></mrow></mfrac><mo>=</mo><mi>P</mi><mo>=</mo><mi>H</mi><mo>\u22c5</mo><mfrac><mrow><mi>d</mi><mi>T</mi></mrow><mrow><mi>d</mi><mi>t</mi></mrow></mfrac></math>  .......(1)<br/><br/>But given that, temperature of rod as a function of time is<br/><br/> <math><mi>T</mi><mo>=</mo><msub><mrow><mi>T</mi></mrow><mrow><mn>0</mn></mrow></msub><mfenced separators=\"|\"><mrow><mn>1</mn><mo>+</mo><mi>\u03b2</mi><msup><mrow><mi>t</mi></mrow><mrow><mrow><mrow><mn>1</mn></mrow><mo>/</mo><mrow><mn>4</mn></mrow></mrow></mrow></msup></mrow></mfenced></math>  ......(2)<br/><br/> <math><mo>\u21d2</mo><mfrac><mrow><mi>d</mi><mi>T</mi></mrow><mrow><mi>d</mi><mi>t</mi></mrow></mfrac><mo>=</mo><msub><mrow><mi>T</mi></mrow><mrow><mn>0</mn></mrow></msub><mo>\u22c5</mo><mi>\u03b2</mi><mo>\u22c5</mo><mfrac><mrow><mn>1</mn></mrow><mrow><mn>4</mn></mrow></mfrac><msup><mrow><mi>t</mi></mrow><mrow><mo>-</mo><mfrac><mrow><mn>3</mn></mrow><mrow><mn>4</mn></mrow></mfrac></mrow></msup></math> <br/><br/>Putting it in (1) gives<br/><br/> <math><mi>P</mi><mo>=</mo><mi>H</mi><mo>\u22c5</mo><msub><mrow><mi>T</mi></mrow><mrow><mn>0</mn></mrow></msub><mo>\u22c5</mo><mi>\u03b2</mi><mo>\u22c5</mo><mfrac><mrow><mn>1</mn></mrow><mrow><mn>4</mn></mrow></mfrac><mo>\u22c5</mo><msup><mrow><mi>t</mi></mrow><mrow><mo>-</mo><mfrac><mrow><mn>3</mn></mrow><mrow><mn>4</mn></mrow></mfrac></mrow></msup></math> <br/><br/> <math><mo>\u21d2</mo><mi>H</mi><mo>=</mo><mfrac><mrow><mn>4</mn><mi>P</mi><mo>\u22c5</mo><msup><mrow><mi>t</mi></mrow><mrow><mrow><mrow><mn>3</mn></mrow><mo>/</mo><mrow><mn>4</mn></mrow></mrow></mrow></msup></mrow><mrow><msub><mrow><mi>T</mi></mrow><mrow><mn>0</mn></mrow></msub><mo>\u22c5</mo><mi>\u03b2</mi></mrow></mfrac></math> <br/><br/> <math><mo>\u21d2</mo><mi>H</mi><mo>=</mo><mn>4</mn><mi>P</mi><mfrac><mrow><msup><mrow><mfenced separators=\"|\"><mrow><mi>T</mi><mo>-</mo><msub><mrow><mi>T</mi></mrow><mrow><mn>0</mn></mrow></msub></mrow></mfenced></mrow><mrow><mn>3</mn></mrow></msup></mrow><mrow><msubsup><mrow><mi>T</mi></mrow><mrow><mn>0</mn></mrow><mrow><mn>4</mn></mrow></msubsup><mo>\u22c5</mo><msup><mrow><mi>B</mi></mrow><mrow><mn>4</mn></mrow></msup></mrow></mfrac></math> <br/><br/>Now using equation  <math><mo>(</mo><mn>2</mn><mo>)</mo></math> <br/><br/> <math><mi>T</mi><mo>-</mo><msub><mrow><mi>T</mi></mrow><mrow><mn>0</mn></mrow></msub><mo>=</mo><msub><mrow><mi>T</mi></mrow><mrow><mn>0</mn></mrow></msub><mi>\u03b2</mi><mo>\u22c5</mo><msup><mrow><mi>t</mi></mrow><mrow><mrow><mrow><mn>1</mn></mrow><mo>/</mo><mrow><mn>4</mn></mrow></mrow></mrow></msup></math> <br/><br/> <math><mo>\u21d2</mo><msup><mrow><mi>t</mi></mrow><mrow><mrow><mrow><mn>3</mn></mrow><mo>/</mo><mrow><mn>4</mn></mrow></mrow></mrow></msup><mo>=</mo><msub><mrow><mi>T</mi></mrow><mrow><mn>0</mn></mrow></msub><msup><mrow><mfenced separators=\"|\"><mrow><mfrac><mrow><mi>T</mi><mo>-</mo><msub><mrow><mi>T</mi></mrow><mrow><mn>0</mn></mrow></msub></mrow><mrow><msub><mrow><mi>T</mi></mrow><mrow><mn>0</mn></mrow></msub><mi>\u03b2</mi></mrow></mfrac></mrow></mfenced></mrow><mrow><mn>3</mn></mrow></msup></math>\n",
+    "image": null
+  },
+  "videoSolution": null
+},
+{
+  "type": "singleCorrect",
+  "level": null,
+  "category": null,
+  "approximateTimeRequired": 120,
+  "imageBaseUrl": null,
+  "helperText": null,
+  "source": null,
+  "classes": [],
+  "exams": ["JEE Advanced"],
+  "subjects": ["Physics"],
+  "chapters": ["Electrostatics"],
+  "topics": [],
+  "concepts": [],
+  "microConcepts": [],
+  "questionLabels": [
+    { "title": "Concept", "value": "Electric Potential", "isVisible": false }
+  ],
+  "previousYearPapers": ["JEE Advanced2019 - 1"],
+  "question": {
+    "text": "A thin spherical insulating shell of radius  <math><mi mathvariant=\"normal\">R</mi></math>  carries a uniformly distributed charge such that the potential at its surface is  <math><msub><mrow><mi mathvariant=\"normal\">V</mi></mrow><mrow><mn>0</mn></mrow></msub></math> . A hole with a small area  <math><mi mathvariant=\"normal\">\u03b1</mi><mn>4</mn><mi mathvariant=\"normal\">\u03c0</mi><msup><mrow><mi mathvariant=\"normal\">R</mi></mrow><mrow><mn>2</mn></mrow></msup><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">\u03b1</mi><mo>\u226a</mo><mn>1</mn></mrow></mfenced></math>  is made on the shell without affecting the rest of the shell. Which one of the following statements is correct?",
+    "image": null
+  },
+  "options": [
+    {
+      "id": "9Zfkz",
+      "text": "The magnitude of electric field at the center of the shell is reduced by  <math><mfrac><mrow><mi mathvariant=\"normal\">\u03b1</mi><msub><mrow><mi mathvariant=\"normal\">V</mi></mrow><mrow><mn>0</mn></mrow></msub></mrow><mrow><mn>2</mn><mi mathvariant=\"normal\">R</mi></mrow></mfrac></math>",
+      "image": null,
+      "isCorrect": false
+    },
+    {
+      "id": "jYX2W",
+      "text": "The potential at the center of the shell is reduced by  <math><mn>2</mn><mi mathvariant=\"normal\">\u03b1</mi><msub><mrow><mi mathvariant=\"normal\">V</mi></mrow><mrow><mn>0</mn></mrow></msub></math>",
+      "image": null,
+      "isCorrect": false
+    },
+    {
+      "id": "HW5Ms",
+      "text": "The ratio of the potential at the center of the shell to that of the point at  <math><mfrac><mrow><mn>1</mn></mrow><mrow><mn>2</mn></mrow></mfrac><mi mathvariant=\"normal\">R</mi></math>  from center towards the hole will be  <math><mfrac><mrow><mn>1</mn><mo>-</mo><mi mathvariant=\"normal\">\u03b1</mi></mrow><mrow><mn>1</mn><mo>-</mo><mn>2</mn><mi mathvariant=\"normal\">\u03b1</mi></mrow></mfrac></math>",
+      "image": null,
+      "isCorrect": false
+    },
+    {
+      "id": "X8BQp",
+      "text": "The magnitude of electric field at a point, located on a line passing through the hole and shell's center on a distance  <math><mn>2</mn><mi mathvariant=\"normal\">R</mi></math>  from the center of the spherical shell will be reduced by  <math><mfrac><mrow><mi mathvariant=\"normal\">\u03b1</mi><msub><mrow><mi mathvariant=\"normal\">V</mi></mrow><mrow><mn>0</mn></mrow></msub></mrow><mrow><mn>2</mn><mi mathvariant=\"normal\">R</mi></mrow></mfrac></math>",
+      "image": null,
+      "isCorrect": true
+    }
+  ],
+  "correctValue": null,
+  "solution": {
+    "text": "<img src=https://s3.amazonaws.com/embibe-cdn/resources/images/uqsdysivylgxzsssaavufwpqwbfyvewbikzpfluvxrvwmfdgdo.png /> <br/><br/>Let  <math><mi>\u2018</mi><mi>A</mi><mi>\u2019</mi></math>  be the point at a distance  <math><mn>2</mn><mi>R</mi></math>  from center and  <math><mi>\u2018</mi><mi>B</mi><mi>\u2019</mi></math>  be the point at a distance of  <math><mfrac><mrow><mi>R</mi></mrow><mrow><mn>2</mn></mrow></mfrac></math>  from center.<br/><br/>Now, let total charge on spherical shell distributed uniformly  <math><mo>=</mo><mi>Q</mi></math> <br/><br/> <math><mo>\u21d2</mo><mtext>\u2009</mtext><mi mathvariant=\"normal\">C</mi><mi mathvariant=\"normal\">h</mi><mi mathvariant=\"normal\">a</mi><mi mathvariant=\"normal\">r</mi><mi mathvariant=\"normal\">g</mi><mi mathvariant=\"normal\">e</mi><mtext>\u2009</mtext><mi mathvariant=\"normal\">p</mi><mi mathvariant=\"normal\">e</mi><mi mathvariant=\"normal\">r</mi><mtext>\u2009</mtext><mi mathvariant=\"normal\">u</mi><mi mathvariant=\"normal\">n</mi><mi mathvariant=\"normal\">i</mi><mi mathvariant=\"normal\">t</mi><mtext>\u2009</mtext><mi mathvariant=\"normal\">a</mi><mi mathvariant=\"normal\">r</mi><mi mathvariant=\"normal\">e</mi><mi mathvariant=\"normal\">a</mi><mo>=</mo><mfrac><mrow><mi>Q</mi></mrow><mrow><mn>4</mn><mi>\u03c0</mi><msup><mrow><mi>r</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow></mfrac></math> <br/><br/>Charge on elemental area  <math><mi>\u2018</mi><mi>d</mi><mi>A</mi><mi>\u2019</mi></math> .<br/><br/>Given potential at surface  <math><msub><mrow><mo>=</mo><mi>V</mi></mrow><mrow><mn>0</mn></mrow></msub></math> <br/><br/> <math><mo>\u21d2</mo><msub><mrow><mi>V</mi></mrow><mrow><mn>0</mn></mrow></msub><mo>=</mo><mfrac><mrow><mi>K</mi><mi>Q</mi></mrow><mrow><mi>R</mi></mrow></mfrac></math> <br/><br/>Now, potential at center of the shell  <math><msub><mrow><mo>=</mo><mi>V</mi></mrow><mrow><mi>C</mi></mrow></msub></math> <br/><br/> <math><msub><mrow><mi>V</mi></mrow><mrow><mi>C</mi></mrow></msub><mo>=</mo><mfrac><mrow><mi>K</mi><mi>Q</mi></mrow><mrow><mi>R</mi></mrow></mfrac><mo>-</mo><mfrac><mrow><mi>K</mi><mo>(</mo><mi>d</mi><mi>Q</mi><mo>)</mo></mrow><mrow><mi>R</mi></mrow></mfrac><mo>=</mo><mfrac><mrow><mi>K</mi><mi>Q</mi></mrow><mrow><mi>R</mi></mrow></mfrac><mo>-</mo><mfrac><mrow><mi>K</mi><mo>(</mo><mi>\u03b1</mi><mi>Q</mi><mo>)</mo></mrow><mrow><mi>R</mi></mrow></mfrac><mo>=</mo><mfrac><mrow><mi>K</mi><mi>Q</mi></mrow><mrow><mi>R</mi></mrow></mfrac><mo>(</mo><mn>1</mn><mo>-</mo><mi>\u03b1</mi><mo>)</mo></math> <br/><br/> <math><mo>\u21d2</mo><msub><mrow><mi>V</mi></mrow><mrow><mi>C</mi></mrow></msub><mo>=</mo><msub><mrow><mi>V</mi></mrow><mrow><mn>0</mn></mrow></msub><mfenced separators=\"|\"><mrow><mn>1</mn><mo>-</mo><mi>\u03b1</mi></mrow></mfenced><mo>\u21d2</mo><mtext>Reduced\u2009</mtext><mi mathvariant=\"normal\">b</mi><mi mathvariant=\"normal\">y</mi><mtext>\u2009</mtext><mi>\u03b1</mi><msub><mrow><mi>V</mi></mrow><mrow><mn>0</mn></mrow></msub></math> <br/><br/>Now potential  <math><mo>=</mo><msub><mrow><mi>V</mi></mrow><mrow><mi>B</mi></mrow></msub></math> <br/><br/> <math><mo>\u21d2</mo><msub><mrow><mi>V</mi></mrow><mrow><mi>B</mi></mrow></msub><mo>=</mo><mfrac><mrow><mi>K</mi><mi>Q</mi></mrow><mrow><mi>R</mi></mrow></mfrac><mo>-</mo><mfrac><mrow><mi>K</mi><mfenced separators=\"|\"><mrow><mi>a</mi><mi>Q</mi></mrow></mfenced></mrow><mrow><mrow><mrow><mi>R</mi></mrow><mo>/</mo><mrow><mn>2</mn></mrow></mrow></mrow></mfrac><mo>=</mo><msub><mrow><mi>V</mi></mrow><mrow><mn>0</mn></mrow></msub><mfenced separators=\"|\"><mrow><mn>1</mn><mo>-</mo><mn>2</mn><mi>a</mi></mrow></mfenced><mo>\u21d2</mo><mi mathvariant=\"normal\">R</mi><mi mathvariant=\"normal\">e</mi><mi mathvariant=\"normal\">d</mi><mi mathvariant=\"normal\">u</mi><mi mathvariant=\"normal\">c</mi><mi mathvariant=\"normal\">e</mi><mi mathvariant=\"normal\">d</mi><mtext>\u2009</mtext><mi mathvariant=\"normal\">b</mi><mi mathvariant=\"normal\">y</mi><mtext>\u2009</mtext><mn>2</mn><mi>\u03b1</mi><msub><mrow><mi>V</mi></mrow><mrow><mn>0</mn></mrow></msub></math> <br/><br/> <math><mo>\u2234</mo><mfrac><mrow><msub><mrow><mi>V</mi></mrow><mrow><mi>C</mi></mrow></msub></mrow><mrow><msub><mrow><mi>V</mi></mrow><mrow><mi>B</mi></mrow></msub></mrow></mfrac><mo>=</mo><mfrac><mrow><mn>1</mn><mo>-</mo><mi>a</mi></mrow><mrow><mn>1</mn><mo>-</mo><mn>2</mn><mi>a</mi></mrow></mfrac></math> <br/><br/>Now, electric field at  <math><mi>A</mi><mo>=</mo><msub><mrow><mi>E</mi></mrow><mrow><mi>A</mi></mrow></msub></math> <br/><br/>Then,  <math><msub><mrow><mi>E</mi></mrow><mrow><mi>A</mi></mrow></msub><mo>=</mo><mfrac><mrow><mi>K</mi><mi>Q</mi></mrow><mrow><msup><mrow><mfenced separators=\"|\"><mrow><mn>2</mn><mi>R</mi></mrow></mfenced></mrow><mrow><mn>2</mn></mrow></msup></mrow></mfrac><mo>-</mo><mfrac><mrow><mi>K</mi><mi>a</mi><mi>Q</mi></mrow><mrow><msup><mrow><mi>R</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow></mfrac><mo>=</mo><mfrac><mrow><mi>K</mi><mi>Q</mi></mrow><mrow><mn>4</mn><msup><mrow><mi>R</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow></mfrac><mo>-</mo><mfrac><mrow><mi>a</mi><msub><mrow><mi>V</mi></mrow><mrow><mn>0</mn></mrow></msub></mrow><mrow><mi>R</mi></mrow></mfrac></math> <br/><br/>So reduced by  <math><mfrac><mrow><mi>a</mi><msub><mrow><mi>V</mi></mrow><mrow><mn>0</mn></mrow></msub></mrow><mrow><mi>R</mi></mrow></mfrac></math> <br/><br/>Electric field at center  <math><mi>\u2018</mi><mi>C</mi><mi>\u2019</mi></math>  due to small change  <math><mi>\u2018</mi><mi>d</mi><mi>Q</mi><mi>\u2019</mi></math> <br/><br/> <math><msub><mrow><mi>E</mi></mrow><mrow><mi>C</mi></mrow></msub><mo>=</mo><mfrac><mrow><mi>K</mi><mfenced separators=\"|\"><mrow><mi>d</mi><mi>q</mi></mrow></mfenced></mrow><mrow><msup><mrow><mi>R</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow></mfrac><mo>=</mo><mfrac><mrow><mi>K</mi><mfenced separators=\"|\"><mrow><mi>\u03b1</mi><mi>Q</mi></mrow></mfenced></mrow><mrow><msup><mrow><mi>R</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow></mfrac><mo>=</mo><mfrac><mrow><mi>\u03b1</mi><msub><mrow><mi>V</mi></mrow><mrow><mn>0</mn></mrow></msub></mrow><mrow><mi>R</mi></mrow></mfrac></math> <br/><br/>So increased by  <math><mfrac><mrow><mi>a</mi><msub><mrow><mi>V</mi></mrow><mrow><mn>0</mn></mrow></msub></mrow><mrow><mi>R</mi></mrow></mfrac></math>\n",
+    "image": null
+  },
+  "videoSolution": null
+},
+{
+  "type": "singleCorrect",
+  "level": null,
+  "category": null,
+  "approximateTimeRequired": 120,
+  "imageBaseUrl": null,
+  "helperText": null,
+  "source": null,
+  "classes": [],
+  "exams": ["JEE Advanced"],
+  "subjects": ["Physics"],
+  "chapters": ["Gravitation"],
+  "topics": [],
+  "concepts": [],
+  "microConcepts": [],
+  "questionLabels": [
+    { "title": "Concept", "value": "Centripetal force", "isVisible": false },
+    {
+      "title": "Concept",
+      "value": "Gravitational Interaction Energy for a System of Particles",
+      "isVisible": false
+    },
+    {
+      "title": "Concept",
+      "value": "Kinetic energy of a particle",
+      "isVisible": false
+    }
+  ],
+  "previousYearPapers": ["JEE Advanced2019 - 1"],
+  "question": {
+    "text": "Consider a spherical gaseous cloud of mass density  <math><mi mathvariant=\"normal\">\u03c1</mi><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">r</mi></mrow></mfenced></math>  in free space where  <math><mi mathvariant=\"normal\">r</mi></math>  is the radial distance from its center. The gaseous cloud is made of particles of equal mass m moving in circular orbits about the common center with the same kinetic energy  <math><mi mathvariant=\"normal\">K</mi></math> . The force acting on the particles is their mutual gravitational force. If  <math><mi mathvariant=\"normal\">\u03c1</mi><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">r</mi></mrow></mfenced></math>  is constant in time, the particle number density  <math><mi mathvariant=\"normal\">n</mi><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">r</mi></mrow></mfenced><mo>=</mo><mrow><mrow><mi mathvariant=\"normal\">\u03c1</mi><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">r</mi></mrow></mfenced></mrow><mo>/</mo><mrow><mi mathvariant=\"normal\">m</mi></mrow></mrow></math>  is: [ <math><mi mathvariant=\"normal\">G</mi></math>  is universal gravitational constant]<br/><br/> <img src=https://s3.amazonaws.com/embibe-cdn/resources/images/advitpkdmosvrcgjukgyfhlshpklhplfashdaciiwdqdfutdcy.png />",
+    "image": null
+  },
+  "options": [
+    {
+      "id": "PwvGq",
+      "text": "<math><mfrac><mrow><mi mathvariant=\"normal\">K</mi></mrow><mrow><mi mathvariant=\"normal\">\u03c0</mi><msup><mrow><mi mathvariant=\"normal\">r</mi></mrow><mrow><mn>2</mn></mrow></msup><msup><mrow><mi mathvariant=\"normal\">m</mi></mrow><mrow><mn>2</mn></mrow></msup><mi mathvariant=\"normal\">G</mi></mrow></mfrac></math>",
+      "image": null,
+      "isCorrect": false
+    },
+    {
+      "id": "wDMNx",
+      "text": "<math><mfrac><mrow><mn>3</mn><mi mathvariant=\"normal\">K</mi></mrow><mrow><mi mathvariant=\"normal\">\u03c0</mi><msup><mrow><mi mathvariant=\"normal\">r</mi></mrow><mrow><mn>2</mn></mrow></msup><msup><mrow><mi mathvariant=\"normal\">m</mi></mrow><mrow><mn>2</mn></mrow></msup><mi mathvariant=\"normal\">G</mi></mrow></mfrac></math>",
+      "image": null,
+      "isCorrect": true
+    },
+    {
+      "id": "SW0Bu",
+      "text": "<math><mfrac><mrow><mi mathvariant=\"normal\">K</mi></mrow><mrow><mn>6</mn><mi mathvariant=\"normal\">\u03c0</mi><msup><mrow><mi mathvariant=\"normal\">r</mi></mrow><mrow><mn>2</mn></mrow></msup><msup><mrow><mi mathvariant=\"normal\">m</mi></mrow><mrow><mn>2</mn></mrow></msup><mi mathvariant=\"normal\">G</mi></mrow></mfrac></math>",
+      "image": null,
+      "isCorrect": false
+    },
+    {
+      "id": "8V95i",
+      "text": "<math><mfrac><mrow><mi mathvariant=\"normal\">K</mi></mrow><mrow><mn>2</mn><mi mathvariant=\"normal\">\u03c0</mi><msup><mrow><mi mathvariant=\"normal\">r</mi></mrow><mrow><mn>2</mn></mrow></msup><msup><mrow><mi mathvariant=\"normal\">m</mi></mrow><mrow><mn>2</mn></mrow></msup><mi mathvariant=\"normal\">G</mi></mrow></mfrac></math>",
+      "image": null,
+      "isCorrect": false
+    }
+  ],
+  "correctValue": null,
+  "solution": {
+    "text": "Given that all the particles of gaseous cloud has mass  <math><mi>\u2018</mi><mi>m</mi><mi>\u2019</mi></math>  and are moving due to mutual attraction with same kinetic energy  <math><mi>\u2018</mi><mi>K</mi><mi>\u2019</mi></math> .<br/><br/>Now in that cloud, let us consider a sphere of radius  <math><mi>\u2018</mi><mi>r</mi><mi>\u2019</mi></math>  containing a group of particles adding to a total mass  <math><mi>\u2018</mi><mi>M</mi><mi>\u2019</mi></math> .<br/><br/>Now, another particle of mass  <math><mi>\u2018</mi><mi>m</mi><mi>\u2019</mi></math>  is moving with speed  <math><mi>\u2018</mi><mi>V</mi><mi>\u2019</mi></math>  due to gravitational attraction of  <math><mi>M</mi><mo>,</mo></math>  in a circle of radius  <math><mi>\u2018</mi><mi>r</mi><mi>\u2019</mi></math> .<br/><br/> <math><mo>\u2234</mo></math>  Centripetal force is here given by  <math><mi>\u2018</mi><mi>M</mi><mi>\u2019</mi></math> <br/><br/> <math><mo>\u21d2</mo><mfrac><mrow><mi>G</mi><mi>M</mi><mo>\u22c5</mo><mi>m</mi></mrow><mrow><msup><mrow><mi>r</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow></mfrac><mo>=</mo><mfrac><mrow><mi>m</mi><msup><mrow><mi>v</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow><mrow><mi>r</mi></mrow></mfrac></math>  ....(1)<br/><br/>But, kinetic energy,  <math><mi>K</mi><mo>=</mo><mfrac><mrow><mn>1</mn></mrow><mrow><mn>2</mn></mrow></mfrac><mi>m</mi><msup><mrow><mi>v</mi></mrow><mrow><mn>2</mn></mrow></msup></math> <br/><br/> <math><mo>\u21d2</mo><mi>m</mi><msup><mrow><mi>v</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>=</mo><mn>2</mn><mi>K</mi></math> <br/><br/>Put it in  <math><mo>(</mo><mn>1</mn><mo>)</mo></math> <br/><br/> <math><mo>\u21d2</mo><mfrac><mrow><mi>G</mi><mi>M</mi><mi>m</mi></mrow><mrow><msup><mrow><mi>r</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow></mfrac><mo>=</mo><mfrac><mrow><mn>2</mn><mi>K</mi></mrow><mrow><mi>r</mi></mrow></mfrac></math> <br/><br/> <math><mo>\u21d2</mo><mi>M</mi><mo>=</mo><mfrac><mrow><mn>2</mn><mi>K</mi><mi>r</mi></mrow><mrow><mi>G</mi><mi>m</mi></mrow></mfrac></math> <br/><br/>Differentiating it we get,<br/><br/> <math><mi>d</mi><mi>M</mi><mo>=</mo><mfrac><mrow><mn>2</mn><mi>K</mi></mrow><mrow><mi>G</mi><mi>m</mi></mrow></mfrac><mo>\u22c5</mo><mi>d</mi><mi>r</mi></math>  .....(2)<br/><br/>Now, if density of cloud is  <math><mi>&prime;</mi><msup><mrow><mi>\u03c1</mi></mrow><mrow><mi>&prime;</mi></mrow></msup><mo>,</mo></math> <br/><br/>Then elementary mass,<br/><br/> <math><mi>d</mi><mi>M</mi><mo>=</mo><mfenced separators=\"|\"><mrow><mn>4</mn><mi>\u03c0</mi><msup><mrow><mi>r</mi></mrow><mrow><mn>2</mn></mrow></msup><mi>d</mi><mi>r</mi></mrow></mfenced><mo>\u22c5</mo><mi>\u03c1</mi><mo>=</mo><mfrac><mrow><mn>2</mn><mi>K</mi></mrow><mrow><mi>G</mi><mi>m</mi></mrow></mfrac><mo>\u22c5</mo><mi>d</mi><mi>r</mi></math> <br/><br/> <math><mo>\u21d2</mo><mi>\u03c1</mi><mo>=</mo><mfrac><mrow><mi>K</mi></mrow><mrow><mn>2</mn><mi>\u03c0</mi><mi>G</mi><mi>m</mi><msup><mrow><mi>r</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow></mfrac></math>\n",
+    "image": null
+  },
+  "videoSolution": null
+},
+{
+  "type": "multipleCorrect",
+  "level": null,
+  "category": null,
+  "approximateTimeRequired": 120,
+  "imageBaseUrl": null,
+  "helperText": null,
+  "source": null,
+  "classes": [],
+  "exams": ["JEE Advanced"],
+  "subjects": ["Physics"],
+  "chapters": ["Electromagnetic Induction and Alternating Current"],
+  "topics": [],
+  "concepts": [],
+  "microConcepts": [],
+  "questionLabels": [
+    { "title": "Concept", "value": "Induced emf", "isVisible": false },
+    {
+      "title": "Concept",
+      "value": "Direction of force on a current carrying wire in magnetic field",
+      "isVisible": false
+    }
+  ],
+  "previousYearPapers": ["JEE Advanced2019 - 1"],
+  "question": {
+    "text": "A conducting wire of parabolic shape, initially  <math><mi mathvariant=\"normal\">y</mi><mo>=</mo><msup><mrow><mi mathvariant=\"normal\">x</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>,</mo></math>  is moving with velocity  <math><mover accent=\"true\"><mrow><mi mathvariant=\"normal\">V</mi></mrow><mo>\u2192</mo></mover><mo>=</mo><msub><mrow><mi mathvariant=\"normal\">V</mi></mrow><mrow><mn>0</mn></mrow></msub><mover accent=\"true\"><mrow><mi mathvariant=\"normal\">i</mi></mrow><mo>^</mo></mover></math>  in a non-uniform magnetic field  <math><mover accent=\"true\"><mrow><mi mathvariant=\"normal\">B</mi></mrow><mo>\u2192</mo></mover><mo>=</mo><msub><mrow><mi mathvariant=\"normal\">B</mi></mrow><mrow><mn>0</mn></mrow></msub><mfenced separators=\"|\"><mrow><mn>1</mn><mo>+</mo><msup><mrow><mfenced separators=\"|\"><mrow><mfrac><mrow><mi mathvariant=\"normal\">y</mi></mrow><mrow><mi mathvariant=\"normal\">L</mi></mrow></mfrac></mrow></mfenced></mrow><mrow><mi mathvariant=\"normal\">\u03b2</mi></mrow></msup></mrow></mfenced><mover accent=\"true\"><mrow><mi mathvariant=\"normal\">k</mi></mrow><mo>^</mo></mover><mo>,</mo></math>  as shown in figure. If  <math><msub><mrow><mi mathvariant=\"normal\">V</mi></mrow><mrow><mn>0</mn></mrow></msub><mo>,</mo><mtext>\u2009</mtext><msub><mrow><mi mathvariant=\"normal\">B</mi></mrow><mrow><mn>0</mn></mrow></msub><mo>,</mo><mtext>\u2009</mtext><mi mathvariant=\"normal\">L</mi></math>  and  <math><mi mathvariant=\"normal\">\u03b2</mi></math>  are positive constants and  <math><mi mathvariant=\"normal\">\u0394</mi><mi mathvariant=\"normal\">\u03d5</mi></math>  is the potential difference developed between the ends of the wire, then the correct statement(s) is/are:<br/><br/> <img src=https://s3.amazonaws.com/embibe-cdn/resources/images/bqdjjcsqdhyuvmpkofkmepelxuzfbpxamtelhauarfhhcdenjf.png />",
+    "image": null
+  },
+  "options": [
+    {
+      "id": "QCGyg",
+      "text": "<math><mfenced close=\"|\" open=\"|\" separators=\"|\"><mrow><mi mathvariant=\"normal\">\u0394</mi><mi mathvariant=\"normal\">\u03d5</mi></mrow></mfenced></math>  is proportional to the length of the wire projected on the y-axis.",
+      "image": null,
+      "isCorrect": true
+    },
+    {
+      "id": "8Cn4I",
+      "text": "<math><mfenced close=\"|\" open=\"|\" separators=\"|\"><mrow><mi mathvariant=\"normal\">\u0394</mi><mi mathvariant=\"normal\">\u03d5</mi></mrow></mfenced><mo>=</mo><mfrac><mrow><mn>4</mn></mrow><mrow><mn>3</mn></mrow></mfrac><msub><mrow><mi mathvariant=\"normal\">B</mi></mrow><mrow><mn>0</mn></mrow></msub><msub><mrow><mi mathvariant=\"normal\">V</mi></mrow><mrow><mn>0</mn></mrow></msub><mi mathvariant=\"normal\">L</mi></math>  for  <math><mi mathvariant=\"normal\">\u03b2</mi><mo>=</mo><mn>2</mn></math>",
+      "image": null,
+      "isCorrect": true
+    },
+    {
+      "id": "2M5er",
+      "text": "<math><mfenced close=\"|\" open=\"|\" separators=\"|\"><mrow><mi mathvariant=\"normal\">\u0394</mi><mi mathvariant=\"normal\">\u03d5</mi></mrow></mfenced></math>  remains the same if the parabolic wire is replaced by a straight wire,  <math><mi mathvariant=\"normal\">y</mi><mo>=</mo><mi mathvariant=\"normal\">x</mi></math>  initially, of length  <math><msqrt><mn>2</mn></msqrt><mi mathvariant=\"normal\">L</mi></math>",
+      "image": null,
+      "isCorrect": true
+    },
+    {
+      "id": "PLSPd",
+      "text": "<math><mfenced close=\"|\" open=\"|\" separators=\"|\"><mrow><mi mathvariant=\"normal\">\u0394</mi><mi mathvariant=\"normal\">\u03d5</mi></mrow></mfenced><mo>=</mo><mfrac><mrow><mn>1</mn></mrow><mrow><mn>2</mn></mrow></mfrac><msub><mrow><mi mathvariant=\"normal\">B</mi></mrow><mrow><mn>0</mn></mrow></msub><msub><mrow><mi mathvariant=\"normal\">V</mi></mrow><mrow><mn>0</mn></mrow></msub><mi mathvariant=\"normal\">L</mi></math>  for  <math><mi mathvariant=\"normal\">\u03b2</mi><mo>=</mo><mn>0</mn></math>",
+      "image": null,
+      "isCorrect": false
+    }
+  ],
+  "correctValue": null,
+  "solution": {
+    "text": "<img src=https://s3.amazonaws.com/embibe-cdn/resources/images/uuxrkgbzyqjwyctxfmjwxojnhcxwvuvwjgnfcgdfpzscjrtgzo.png /> <br/><br/>For calculating the motional emf across the length of the wire, let us project wire such that  <math><mover accent=\"true\"><mrow><mi>B</mi></mrow><mo>\u2192</mo></mover><mo>,</mo><mover accent=\"true\"><mrow><mi>v</mi></mrow><mo>\u2192</mo></mover><mo>-</mo><mo>,</mo><mover accent=\"true\"><mrow><mi>i</mi></mrow><mo>\u2192</mo></mover></math>  becomes mutually orthogonal. Thus, small emf 'dc' induced in elemental length  <math><mi>\u2018</mi><mi>d</mi><mi>y</mi><mi>\u2019</mi></math>  of projected wire, will be -<br/><br/> <math><mo>\u21d2</mo><mi>d</mi><mi>\u03b5</mi><mo>=</mo><mi>B</mi><msub><mrow><mi>v</mi></mrow><mrow><mn>0</mn></mrow></msub><mi>d</mi><mi>y</mi><mo>=</mo><msub><mrow><mi>B</mi></mrow><mrow><mn>0</mn></mrow></msub><mfenced close=\"]\" open=\"[\" separators=\"|\"><mrow><mn>1</mn><mo>+</mo><msup><mrow><mfenced separators=\"|\"><mrow><mfrac><mrow><mi>y</mi></mrow><mrow><mi>L</mi></mrow></mfrac></mrow></mfenced></mrow><mrow><mi>\u03b2</mi></mrow></msup></mrow></mfenced><msub><mrow><mi>V</mi></mrow><mrow><mn>0</mn></mrow></msub><mi>d</mi><mi>y</mi></math> <br/><br/> <math><mi>\u03b5</mi><mo>=</mo><mrow><munderover><mo stretchy=\"true\">\u222b</mo><mrow><mn>0</mn></mrow><mrow><mi>L</mi></mrow></munderover><mrow><msub><mrow><mi>B</mi></mrow><mrow><mn>0</mn></mrow></msub></mrow></mrow><mfenced separators=\"|\"><mrow><mn>1</mn><mo>+</mo><msup><mrow><mfenced separators=\"|\"><mrow><mfrac><mrow><mi>y</mi></mrow><mrow><mi>L</mi></mrow></mfrac></mrow></mfenced></mrow><mrow><mi>\u03b2</mi></mrow></msup></mrow></mfenced><msub><mrow><mi>V</mi></mrow><mrow><mn>0</mn></mrow></msub><mi>d</mi><mi>y</mi><mo>=</mo><mrow><munderover><mo stretchy=\"true\">\u222b</mo><mrow><mn>0</mn></mrow><mrow><mi>L</mi></mrow></munderover><mrow><msub><mrow><mi>B</mi></mrow><mrow><mn>0</mn></mrow></msub><mo>\u22c5</mo><msub><mrow><mi>V</mi></mrow><mrow><mn>0</mn></mrow></msub><mo>\u22c5</mo><mi>d</mi><mi>y</mi></mrow></mrow><mo>+</mo><mrow><munderover><mo stretchy=\"true\">\u222b</mo><mrow><mn>0</mn></mrow><mrow><mi>L</mi></mrow></munderover><mrow><mfrac><mrow><msub><mrow><mi>B</mi></mrow><mrow><mn>0</mn></mrow></msub><mo>\u22c5</mo><msub><mrow><mi>V</mi></mrow><mrow><mn>0</mn></mrow></msub></mrow><mrow><msup><mrow><mi>L</mi></mrow><mrow><mi>\u03b2</mi></mrow></msup></mrow></mfrac><msup><mrow><mi>y</mi></mrow><mrow><mi>\u03b2</mi></mrow></msup><mo>\u22c5</mo><mi>d</mi><mi>y</mi></mrow></mrow></math> <br/><br/> <math><mo>=</mo><msub><mrow><mi>B</mi></mrow><mrow><mn>0</mn></mrow></msub><msub><mrow><mi>V</mi></mrow><mrow><mn>0</mn></mrow></msub><mi>L</mi><mfenced close=\"]\" open=\"[\" separators=\"|\"><mrow><mn>1</mn><mo>+</mo><mfrac><mrow><mn>1</mn></mrow><mrow><mi>\u03b2</mi><mo>+</mo><mn>1</mn></mrow></mfrac></mrow></mfenced></math> <br/><br/> <math><mo>\u2234</mo></math>  emf in loop is proportional to  <math><mi>L</mi></math>  for given value of  <math><mi>\u03b2</mi></math> .<br/><br/> <math><mo>\u21d2</mo></math>  Option  <math><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">A</mi></mrow></mfenced></math>  is correct.<br/><br/>for<br/><br/> <math><mi>\u03b2</mi><mo>=</mo><mn>0</mn><mo>;</mo><mi>\u03b5</mi><mo>=</mo><mn>2</mn><msub><mrow><mi>B</mi></mrow><mrow><mn>0</mn></mrow></msub><msub><mrow><mi>V</mi></mrow><mrow><mn>0</mn></mrow></msub><mi>L</mi></math> <br/><br/> <math><mi>\u03b2</mi><mo>=</mo><mn>2</mn><mo>;</mo><mi>\u03b5</mi><mo>=</mo><msub><mrow><mi>B</mi></mrow><mrow><mn>0</mn></mrow></msub><msub><mrow><mi>V</mi></mrow><mrow><mn>0</mn></mrow></msub><mi>L</mi><mfenced close=\"]\" open=\"[\" separators=\"|\"><mrow><mn>1</mn><mo>+</mo><mfrac><mrow><mn>1</mn></mrow><mrow><mn>3</mn></mrow></mfrac></mrow></mfenced><mo>=</mo><mfrac><mrow><mn>4</mn></mrow><mrow><mn>3</mn></mrow></mfrac><msub><mrow><mi>B</mi></mrow><mrow><mn>0</mn></mrow></msub><msub><mrow><mi>V</mi></mrow><mrow><mn>0</mn></mrow></msub><mi>L</mi><mo>\u21d2</mo></math>  Option  <math><mo>(</mo><mi mathvariant=\"normal\">B</mi><mo>)</mo></math>  is correct.<br/><br/>Now, the length of the projection of the wire  <math><mi>y</mi><mo>=</mo><mi>x</mi></math>  and length  <math><msqrt><mn>2</mn></msqrt><mi>L</mi></math>  on the y-axis is  <math><mi>L</mi></math>  thus the answer remain unchanged  <math><mo>\u21d2</mo></math>  Option  <math><mo>(</mo><mi mathvariant=\"normal\">C</mi><mo>)</mo></math>  is correct.\n<img src=https://s3.amazonaws.com/embibe-cdn/resources/images/botyjqzdsgcnkscxbochgcdzsyuejgebqlqqbbszzgaubuzpqi.png /> <br/><br/>For calculating the motional emf across the length of the wire, let us project wire such that  <math><mover accent=\"true\"><mrow><mi>B</mi></mrow><mo>\u2192</mo></mover><mo>,</mo><mover accent=\"true\"><mrow><mi>v</mi></mrow><mo>\u2192</mo></mover><mo>-</mo><mo>,</mo><mover accent=\"true\"><mrow><mi>i</mi></mrow><mo>\u2192</mo></mover></math>  becomes mutually orthogonal. Thus, small emf 'dc' induced in elemental length  <math><mi>\u2018</mi><mi>d</mi><mi>y</mi><mi>\u2019</mi></math>  of projected wire, will be -<br/><br/> <math><mo>\u21d2</mo><mi>d</mi><mi>\u03b5</mi><mo>=</mo><mi>B</mi><msub><mrow><mi>v</mi></mrow><mrow><mn>0</mn></mrow></msub><mi>d</mi><mi>y</mi><mo>=</mo><msub><mrow><mi>B</mi></mrow><mrow><mn>0</mn></mrow></msub><mfenced close=\"]\" open=\"[\" separators=\"|\"><mrow><mn>1</mn><mo>+</mo><msup><mrow><mfenced separators=\"|\"><mrow><mfrac><mrow><mi>y</mi></mrow><mrow><mi>L</mi></mrow></mfrac></mrow></mfenced></mrow><mrow><mi>\u03b2</mi></mrow></msup></mrow></mfenced><msub><mrow><mi>V</mi></mrow><mrow><mn>0</mn></mrow></msub><mi>d</mi><mi>y</mi></math> <br/><br/> <math><mi>\u03b5</mi><mo>=</mo><mrow><munderover><mo stretchy=\"true\">\u222b</mo><mrow><mn>0</mn></mrow><mrow><mi>L</mi></mrow></munderover><mrow><msub><mrow><mi>B</mi></mrow><mrow><mn>0</mn></mrow></msub></mrow></mrow><mfenced separators=\"|\"><mrow><mn>1</mn><mo>+</mo><msup><mrow><mfenced separators=\"|\"><mrow><mfrac><mrow><mi>y</mi></mrow><mrow><mi>L</mi></mrow></mfrac></mrow></mfenced></mrow><mrow><mi>\u03b2</mi></mrow></msup></mrow></mfenced><msub><mrow><mi>V</mi></mrow><mrow><mn>0</mn></mrow></msub><mi>d</mi><mi>y</mi><mo>=</mo><mrow><munderover><mo stretchy=\"true\">\u222b</mo><mrow><mn>0</mn></mrow><mrow><mi>L</mi></mrow></munderover><mrow><msub><mrow><mi>B</mi></mrow><mrow><mn>0</mn></mrow></msub><mo>\u22c5</mo><msub><mrow><mi>V</mi></mrow><mrow><mn>0</mn></mrow></msub><mo>\u22c5</mo><mi>d</mi><mi>y</mi></mrow></mrow><mo>+</mo><mrow><munderover><mo stretchy=\"true\">\u222b</mo><mrow><mn>0</mn></mrow><mrow><mi>L</mi></mrow></munderover><mrow><mfrac><mrow><msub><mrow><mi>B</mi></mrow><mrow><mn>0</mn></mrow></msub><mo>\u22c5</mo><msub><mrow><mi>V</mi></mrow><mrow><mn>0</mn></mrow></msub></mrow><mrow><msup><mrow><mi>L</mi></mrow><mrow><mi>\u03b2</mi></mrow></msup></mrow></mfrac><msup><mrow><mi>y</mi></mrow><mrow><mi>\u03b2</mi></mrow></msup><mo>\u22c5</mo><mi>d</mi><mi>y</mi></mrow></mrow></math> <br/><br/> <math><mo>=</mo><msub><mrow><mi>B</mi></mrow><mrow><mn>0</mn></mrow></msub><msub><mrow><mi>V</mi></mrow><mrow><mn>0</mn></mrow></msub><mi>L</mi><mfenced close=\"]\" open=\"[\" separators=\"|\"><mrow><mn>1</mn><mo>+</mo><mfrac><mrow><mn>1</mn></mrow><mrow><mi>\u03b2</mi><mo>+</mo><mn>1</mn></mrow></mfrac></mrow></mfenced></math> <br/><br/> <math><mo>\u2234</mo></math>  emf in loop is proportional to  <math><mi>L</mi></math>  for given value of  <math><mi>\u03b2</mi></math> .<br/><br/> <math><mo>\u21d2</mo></math>  Option  <math><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">A</mi></mrow></mfenced></math>  is correct.<br/><br/>for<br/><br/> <math><mi>\u03b2</mi><mo>=</mo><mn>0</mn><mo>;</mo><mi>\u03b5</mi><mo>=</mo><mn>2</mn><msub><mrow><mi>B</mi></mrow><mrow><mn>0</mn></mrow></msub><msub><mrow><mi>V</mi></mrow><mrow><mn>0</mn></mrow></msub><mi>L</mi></math> <br/><br/> <math><mi>\u03b2</mi><mo>=</mo><mn>2</mn><mo>;</mo><mi>\u03b5</mi><mo>=</mo><msub><mrow><mi>B</mi></mrow><mrow><mn>0</mn></mrow></msub><msub><mrow><mi>V</mi></mrow><mrow><mn>0</mn></mrow></msub><mi>L</mi><mfenced close=\"]\" open=\"[\" separators=\"|\"><mrow><mn>1</mn><mo>+</mo><mfrac><mrow><mn>1</mn></mrow><mrow><mn>3</mn></mrow></mfrac></mrow></mfenced><mo>=</mo><mfrac><mrow><mn>4</mn></mrow><mrow><mn>3</mn></mrow></mfrac><msub><mrow><mi>B</mi></mrow><mrow><mn>0</mn></mrow></msub><msub><mrow><mi>V</mi></mrow><mrow><mn>0</mn></mrow></msub><mi>L</mi><mo>\u21d2</mo></math>  Option  <math><mo>(</mo><mi mathvariant=\"normal\">B</mi><mo>)</mo></math>  is correct.<br/><br/>Now, the length of the projection of the wire  <math><mi>y</mi><mo>=</mo><mi>x</mi></math>  and length  <math><msqrt><mn>2</mn></msqrt><mi>L</mi></math>  on the y-axis is  <math><mi>L</mi></math>  thus the answer remain unchanged  <math><mo>\u21d2</mo></math>  Option  <math><mo>(</mo><mi mathvariant=\"normal\">C</mi><mo>)</mo></math>  is correct.\n<img src=https://s3.amazonaws.com/embibe-cdn/resources/images/noxtjsiksydejfbnxnrbjitbyvbipjfqdsxyaeuxlkwiswmynb.png /> <br/><br/>For calculating the motional emf across the length of the wire, let us project wire such that  <math><mover accent=\"true\"><mrow><mi>B</mi></mrow><mo>\u2192</mo></mover><mo>,</mo><mover accent=\"true\"><mrow><mi>v</mi></mrow><mo>\u2192</mo></mover><mo>-</mo><mo>,</mo><mover accent=\"true\"><mrow><mi>i</mi></mrow><mo>\u2192</mo></mover></math>  becomes mutually orthogonal. Thus, small emf 'dc' induced in elemental length  <math><mi>\u2018</mi><mi>d</mi><mi>y</mi><mi>\u2019</mi></math>  of projected wire, will be -<br/><br/> <math><mo>\u21d2</mo><mi>d</mi><mi>\u03b5</mi><mo>=</mo><mi>B</mi><msub><mrow><mi>v</mi></mrow><mrow><mn>0</mn></mrow></msub><mi>d</mi><mi>y</mi><mo>=</mo><msub><mrow><mi>B</mi></mrow><mrow><mn>0</mn></mrow></msub><mfenced close=\"]\" open=\"[\" separators=\"|\"><mrow><mn>1</mn><mo>+</mo><msup><mrow><mfenced separators=\"|\"><mrow><mfrac><mrow><mi>y</mi></mrow><mrow><mi>L</mi></mrow></mfrac></mrow></mfenced></mrow><mrow><mi>\u03b2</mi></mrow></msup></mrow></mfenced><msub><mrow><mi>V</mi></mrow><mrow><mn>0</mn></mrow></msub><mi>d</mi><mi>y</mi></math> <br/><br/> <math><mi>\u03b5</mi><mo>=</mo><mrow><munderover><mo stretchy=\"true\">\u222b</mo><mrow><mn>0</mn></mrow><mrow><mi>L</mi></mrow></munderover><mrow><msub><mrow><mi>B</mi></mrow><mrow><mn>0</mn></mrow></msub></mrow></mrow><mfenced separators=\"|\"><mrow><mn>1</mn><mo>+</mo><msup><mrow><mfenced separators=\"|\"><mrow><mfrac><mrow><mi>y</mi></mrow><mrow><mi>L</mi></mrow></mfrac></mrow></mfenced></mrow><mrow><mi>\u03b2</mi></mrow></msup></mrow></mfenced><msub><mrow><mi>V</mi></mrow><mrow><mn>0</mn></mrow></msub><mi>d</mi><mi>y</mi><mo>=</mo><mrow><munderover><mo stretchy=\"true\">\u222b</mo><mrow><mn>0</mn></mrow><mrow><mi>L</mi></mrow></munderover><mrow><msub><mrow><mi>B</mi></mrow><mrow><mn>0</mn></mrow></msub><mo>\u22c5</mo><msub><mrow><mi>V</mi></mrow><mrow><mn>0</mn></mrow></msub><mo>\u22c5</mo><mi>d</mi><mi>y</mi></mrow></mrow><mo>+</mo><mrow><munderover><mo stretchy=\"true\">\u222b</mo><mrow><mn>0</mn></mrow><mrow><mi>L</mi></mrow></munderover><mrow><mfrac><mrow><msub><mrow><mi>B</mi></mrow><mrow><mn>0</mn></mrow></msub><mo>\u22c5</mo><msub><mrow><mi>V</mi></mrow><mrow><mn>0</mn></mrow></msub></mrow><mrow><msup><mrow><mi>L</mi></mrow><mrow><mi>\u03b2</mi></mrow></msup></mrow></mfrac><msup><mrow><mi>y</mi></mrow><mrow><mi>\u03b2</mi></mrow></msup><mo>\u22c5</mo><mi>d</mi><mi>y</mi></mrow></mrow></math> <br/><br/> <math><mo>=</mo><msub><mrow><mi>B</mi></mrow><mrow><mn>0</mn></mrow></msub><msub><mrow><mi>V</mi></mrow><mrow><mn>0</mn></mrow></msub><mi>L</mi><mfenced close=\"]\" open=\"[\" separators=\"|\"><mrow><mn>1</mn><mo>+</mo><mfrac><mrow><mn>1</mn></mrow><mrow><mi>\u03b2</mi><mo>+</mo><mn>1</mn></mrow></mfrac></mrow></mfenced></math> <br/><br/> <math><mo>\u2234</mo></math>  emf in loop is proportional to  <math><mi>L</mi></math>  for given value of  <math><mi>\u03b2</mi></math> .<br/><br/> <math><mo>\u21d2</mo></math>  Option  <math><mfenced separators=\"|\"><mrow><mi mathvariant=\"normal\">A</mi></mrow></mfenced></math>  is correct.<br/><br/>for<br/><br/> <math><mi>\u03b2</mi><mo>=</mo><mn>0</mn><mo>;</mo><mi>\u03b5</mi><mo>=</mo><mn>2</mn><msub><mrow><mi>B</mi></mrow><mrow><mn>0</mn></mrow></msub><msub><mrow><mi>V</mi></mrow><mrow><mn>0</mn></mrow></msub><mi>L</mi></math> <br/><br/> <math><mi>\u03b2</mi><mo>=</mo><mn>2</mn><mo>;</mo><mi>\u03b5</mi><mo>=</mo><msub><mrow><mi>B</mi></mrow><mrow><mn>0</mn></mrow></msub><msub><mrow><mi>V</mi></mrow><mrow><mn>0</mn></mrow></msub><mi>L</mi><mfenced close=\"]\" open=\"[\" separators=\"|\"><mrow><mn>1</mn><mo>+</mo><mfrac><mrow><mn>1</mn></mrow><mrow><mn>3</mn></mrow></mfrac></mrow></mfenced><mo>=</mo><mfrac><mrow><mn>4</mn></mrow><mrow><mn>3</mn></mrow></mfrac><msub><mrow><mi>B</mi></mrow><mrow><mn>0</mn></mrow></msub><msub><mrow><mi>V</mi></mrow><mrow><mn>0</mn></mrow></msub><mi>L</mi><mo>\u21d2</mo></math>  Option  <math><mo>(</mo><mi mathvariant=\"normal\">B</mi><mo>)</mo></math>  is correct.<br/><br/>Now, the length of the projection of the wire  <math><mi>y</mi><mo>=</mo><mi>x</mi></math>  and length  <math><msqrt><mn>2</mn></msqrt><mi>L</mi></math>  on the y-axis is  <math><mi>L</mi></math>  thus the answer remain unchanged  <math><mo>\u21d2</mo></math>  Option  <math><mo>(</mo><mi mathvariant=\"normal\">C</mi><mo>)</mo></math>  is correct.\n",
+    "image": null
+  },
+  "videoSolution": null
+}
+]
